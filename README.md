@@ -21,7 +21,7 @@ O fluxo de processamento de dados foi construído seguindo o ciclo clássico de 
 
 1. Realize o clone do repositório em seu ambiente:
 ```bash
-git clone [https://github.com/alvarobandim/automacao_web_scraping.git](https://github.com/alvarobandim/automacao_web_scraping.git)
+git clone https://github.com/alvarobandim/automacao_web_scraping.git
 ```
 
 2. Instale as dependências listadas no projeto via gerenciador de pacotes:
