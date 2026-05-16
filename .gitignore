@@ -1,0 +1,7 @@
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos de dados gerados localmente (Banco de dados temporário / Planilhas)
+oportunidades_livros.xlsx
+precos_livraria.xlsx
