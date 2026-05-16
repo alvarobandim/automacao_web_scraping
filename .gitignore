@@ -2,6 +2,10 @@
 __pycache__/
 *.pyc
 
-# Arquivos de dados gerados localmente (Banco de dados temporário / Planilhas)
+# Cofre de Credenciais (NUNCA SUBIR)
+.env
+
+# Bancos de Dados e Planilhas Locais
+marketplace_intelligence.db
 oportunidades_livros.xlsx
 precos_livraria.xlsx
